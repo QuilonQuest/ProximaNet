@@ -2,4 +2,5 @@ near-sputnik-dao
 ==================
 
 ## Instructions
-- Yarn Installation
+- Yarn Install
+- Yarn Build
