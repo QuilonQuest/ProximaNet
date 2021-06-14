@@ -1,5 +1,5 @@
 near-sputnik-dao
 ==================
 
-coming soon....
-.......
+## Instructions
+- Yarn Installation
