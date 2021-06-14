@@ -1,4 +1,4 @@
-your-awesome-project
+core-near-project
 ==================
 
 This app was initialized with [create-near-app]
