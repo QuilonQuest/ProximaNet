@@ -1,2 +1,13 @@
 # ProximaNet
 Media Monetisation Framework on NEAR Protocol
+
+## Context
+- Need for an authentic architecture to verify and validate advertisements
+
+## Constructs
+- Minimal Anti Collusion ( MACI ) based Quadratic Voting
+- Ethereum - NEAR - Cross Chain Shard Rainbow Bridge
+- NEAR Randomness Beacon based VRF Time Locks
+- Tokenisation of Advertisements into Fractional NFT
+- Application of ERC 1155 and ERC 721 Standards
+- Implementation of Interactive NFT Specification
