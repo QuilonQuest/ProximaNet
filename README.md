@@ -20,3 +20,6 @@ Media Monetisation Framework on NEAR Protocol
 - A basic contract app with boilerplate code
 - A basic dao app with JavaScript SDK
 - A basic client app using NEAR cli
+
+## Challenges
+- Issues with NEAR CLI setup
