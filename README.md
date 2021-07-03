@@ -12,6 +12,11 @@ Media Monetisation Framework on NEAR Protocol
 - Application of ERC 1155 and ERC 721 Standards
 - Implementation of Interactive NFT Specification
 
-## Components
+## Activities
 - Wallet Creation on TestNet ( https://wallet.testnet.near.org/ )
 - Wallet Security on TestNet
+
+## Applications
+- A basic contract app with boilerplate code
+- A basic dao app with JavaScript SDK
+- A basic client app using NEAR cli
