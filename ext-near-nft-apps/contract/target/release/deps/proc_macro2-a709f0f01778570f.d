@@ -1,0 +1,11 @@
+C:\Users\cnrs\PhpstormProjects\nearfolio-repo-1\contract\target\release\deps\proc_macro2-a709f0f01778570f.rmeta: C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\cnrs\PhpstormProjects\nearfolio-repo-1\contract\target\release\deps\libproc_macro2-a709f0f01778570f.rlib: C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\cnrs\PhpstormProjects\nearfolio-repo-1\contract\target\release\deps\proc_macro2-a709f0f01778570f.d: C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs:
+C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs:
+C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs:
+C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs:
+C:\Users\cnrs\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs:

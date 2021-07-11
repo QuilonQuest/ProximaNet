@@ -1,0 +1,1 @@
+{"rustc":18145874729619535536,"features":"[]","target":834697563557903354,"profile":16452766847970628972,"path":11450018232728346023,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/cfg-if-c59eac1dde612dca/dep-lib-cfg-if"}}],"rustflags":["-C","link-args=-s"],"metadata":8462187951337715540,"config":0,"compile_kind":8104632896995515128}

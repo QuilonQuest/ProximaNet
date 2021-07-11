@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\cnrs\PhpstormProjects\nearfolio-repo-1\contract\target\wasm32-unknown-unknown\release\build\typenum-67dc47b2d210947d\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\cnrs\PhpstormProjects\nearfolio-repo-1\contract\target\wasm32-unknown-unknown\release\build\typenum-67dc47b2d210947d\out\op.rs

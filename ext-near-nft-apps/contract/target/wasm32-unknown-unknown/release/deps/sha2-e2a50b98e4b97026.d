@@ -1,0 +1,12 @@
+/home/semiott/Apps/near-apps/ProximaNet/ext-near-nft-apps/contract/target/wasm32-unknown-unknown/release/deps/sha2-e2a50b98e4b97026.rmeta: /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/home/semiott/Apps/near-apps/ProximaNet/ext-near-nft-apps/contract/target/wasm32-unknown-unknown/release/deps/libsha2-e2a50b98e4b97026.rlib: /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/home/semiott/Apps/near-apps/ProximaNet/ext-near-nft-apps/contract/target/wasm32-unknown-unknown/release/deps/sha2-e2a50b98e4b97026.d: /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs:
+/home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs:
+/home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs:
+/home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs:
+/home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs:
+/home/semiott/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs:

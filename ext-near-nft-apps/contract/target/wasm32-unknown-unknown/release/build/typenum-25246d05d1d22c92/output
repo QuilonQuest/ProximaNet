@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/semiott/Apps/near-apps/ProximaNet/ext-near-nft-apps/contract/target/wasm32-unknown-unknown/release/build/typenum-25246d05d1d22c92/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/semiott/Apps/near-apps/ProximaNet/ext-near-nft-apps/contract/target/wasm32-unknown-unknown/release/build/typenum-25246d05d1d22c92/out/op.rs
