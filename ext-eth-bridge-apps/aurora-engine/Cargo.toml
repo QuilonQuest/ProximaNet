@@ -1,0 +1,88 @@
+[package]
+name = "aurora-engine"
+version = "1.0.0"
+authors = ["NEAR <hello@near.org>"]
+edition = "2018"
+description = ""
+documentation = ""
+readme = true
+homepage = "https://github.com/aurora-is-near/aurora-engine"
+repository = "https://github.com/aurora-is-near/aurora-engine"
+license = "CC0-1.0"
+publish = false
+autobenches = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[profile.release]
+opt-level = "z"
+debug = false
+debug-assertions = false
+overflow-checks = true
+lto = true
+panic = "abort"
+incremental = false
+codegen-units = 1
+rpath = false
+
+[profile.dev]
+opt-level = "z"
+debug = false
+debug-assertions = true
+overflow-checks = true
+lto = true
+panic = "abort"
+incremental = false
+codegen-units = 1
+rpath = false
+
+[dependencies]
+blake2 = { git = "https://github.com/near/near-blake2.git", version = "0.9.1", default-features = false }
+borsh = { version = "0.8.2", default-features = false }
+bn = { package = "aurora-bn", git = "https://github.com/aurora-is-near/aurora-bn.git", default-features = false }
+evm = { version = "0.28.0", default-features = false }
+evm-core = { version = "0.28.0", default-features = false }
+libsecp256k1 = { version = "0.3.5", default-features = false }
+num = { version = "0.4.0", default-features = false, features = ["alloc"] }
+primitive-types = { version = "0.9.0", default-features = false, features = ["rlp"] }
+ripemd160 = { version = "0.9.1", default-features = false }
+rlp = { version = "0.5.0", default-features = false }
+sha2 = { version = "0.9.3", default-features = false, optional = true }
+sha3 = { version = "0.9.1", default-features = false }
+wee_alloc = { version = "0.4.5", default-features = false }
+logos = { version = "0.12", default-features = false, features = ["export_derive"] }
+ethabi = { git = "https://github.com/darwinia-network/ethabi", branch = "xavier-no-std", default-features = false }
+hex = { version = "0.4", default-features = false, features = ["alloc"] }
+byte-slice-cast = { version = "1.0", default-features = false }
+rjson = { version = "0.3.1", default-features = false }
+
+[dev-dependencies]
+bstr = "0.2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+hex = { version = "0.4.3", default-features = false }
+near-sdk = { git = "https://github.com/near/near-sdk-rs", rev = "9d99077c6acfde68c06845f2a1eb2b5ed7983401" }
+near-sdk-sim = { git = "https://github.com/near/near-sdk-rs", rev = "9d99077c6acfde68c06845f2a1eb2b5ed7983401" }
+near-crypto = "0.1.0"
+near-vm-runner = "4.0.0-pre.1"
+near-vm-logic = "4.0.0-pre.1"
+near-primitives-core = "0.4.0"
+libsecp256k1 = "0.3.5"
+rand = "0.7.3"
+criterion = "0.3.4"
+git2 = "0.13"
+lazy-static-include = "3.1.1"
+base64 = "0.13.0"
+
+[features]
+default = ["sha2", "std"]
+std = ["borsh/std", "evm/std", "primitive-types/std", "rlp/std", "sha3/std", "ethabi/std", "logos/std", "bn/std"]
+contract = []
+evm_bully = []
+log = []
+meta-call = []
+integration-test = ["log"]
+mainnet = ["contract", "log"]
+testnet = ["contract", "log"]
+betanet = ["contract", "log", "meta-call"]

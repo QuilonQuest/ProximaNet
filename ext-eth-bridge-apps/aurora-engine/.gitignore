@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# IDEA
+.idea
+
+# Editor backup files
+*~
+
+# Rust artifacts
+/*.wasm
+/target/
+
+# Solidity artifacts
+artifacts/
+cache/
+node_modules/
+res/
+
+# Other
+etc/state-migration-test/target/
+
+node_modules/*
+artifacts/
+cache
