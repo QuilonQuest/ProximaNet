@@ -25,10 +25,6 @@ Media Monetisation Framework on NEAR Protocol
 - Limited scalability for print media messaging systems
 - Lack of authenticity of advertisements and adverts
 
-# Solution
-- Time Tokenisation of print media content
-- Conversion of print media into non fungible tokens
-
 ## Technology
 - Ethereum - NEAR - Cross Chain Shard Rainbow Bridge
 - Tokenisation of Advertisements into Fractional NFT
@@ -48,10 +44,13 @@ Media Monetisation Framework on NEAR Protocol
 - Issues with NEAR CLI setup
 
 # Technology
-- NEAR SDK
-- Ethereum - NEAR Bridge
+- Rust
+- JavaScript
+- NEAR Protocol
+- Rainbow Bridge
+- Aurora Engine
 - NPM
-- NodeJS
+- YARN
 
 # Roadmap
 - Integration of Zero Knowledge Proofs
