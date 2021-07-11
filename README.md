@@ -11,6 +11,7 @@ Media Monetisation Framework on NEAR Protocol
 
 ## What it does
 - Time Tokenisation of New Media 
+- Trust Tokenisation of New Media
 
 ## How we built it
 - NEAR Protocol
