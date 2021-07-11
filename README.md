@@ -40,14 +40,16 @@ Media Monetisation Framework on NEAR Protocol
 ## Applications
 - A basic contract app with boilerplate code
 - A basic dao app with JavaScript SDK
-- A basic client app using NEAR cli
 
 ## Accomplishments that we're proud of
-- Innovations on the lifecycle of New Media 
-- Implementation of a new computational framework for media
+- Innovations on the lifecycle of Media Monetisation Networks
+- First ever integration of Fractional NFT on NEAR Protocol
+- First ever implementation of Interactive NFT on NEAR Protocol
+- First ever integration of Rainbow Bridge and Aurora Engine
 
 # Roadmap
 - Integration of Zero Knowledge Proofs
 - Integration of Verifiable Delay Functions
-- Implementation of Time Tokens using NEAR Protocols
+- Implementation of Time Trust Tokens using NEAR Protocols
+- Implementation of Dynamic Digital NFTs for Advertisements
 - Implementation of Non Fungible Tokens on NEAR Protocols
