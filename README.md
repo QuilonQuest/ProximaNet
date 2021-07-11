@@ -11,22 +11,25 @@ Media Monetisation Framework on NEAR Protocol
 
 ## What it does
 - Time Tokenisation of New Media 
+- Trust Tokenisation of New Media
 
 ## How we built it
 - NEAR Protocol
-- NodeJS
 - JavaScript
+- Rust
+- Rainbow Bridge
+- Aurora Engine
+- NodeJS
+- NPM
+- YARN
 
 # Problem
 - Lack of traceability in the international print media
-- Excess of centralisation in the regional print media
-- Lack of interoperability between print media networks
-- Limited scalability for print media messaging systems
+- Excess of centralisation in the international print media
+- Lack of interoperability between media monetisation networks
+- Limited scalability for media monetisation systems
 - Lack of authenticity of advertisements and adverts
-
-# Solution
-- Time Tokenisation of print media content
-- Conversion of print media into non fungible tokens
+- Lack of heterogeneity in media contents and culture
 
 ## Technology
 - Ethereum - NEAR - Cross Chain Shard Rainbow Bridge
@@ -37,23 +40,16 @@ Media Monetisation Framework on NEAR Protocol
 ## Applications
 - A basic contract app with boilerplate code
 - A basic dao app with JavaScript SDK
-- A basic client app using NEAR cli
 
 ## Accomplishments that we're proud of
-- Innovations on the lifecycle of New Media 
-- Implementation of a new computational framework for media
-
-## Challenges
-- Issues with NEAR CLI setup
-
-# Technology
-- NEAR SDK
-- Ethereum - NEAR Bridge
-- NPM
-- NodeJS
+- Innovations on the lifecycle of Media Monetisation Networks
+- First ever integration of Fractional NFT on NEAR Protocol
+- First ever implementation of Interactive NFT on NEAR Protocol
+- First ever integration of Rainbow Bridge and Aurora Engine
 
 # Roadmap
 - Integration of Zero Knowledge Proofs
 - Integration of Verifiable Delay Functions
-- Implementation of Time Tokens using NEAR Protocols
+- Implementation of Time Trust Tokens using NEAR Protocols
+- Implementation of Dynamic Digital NFTs for Advertisements
 - Implementation of Non Fungible Tokens on NEAR Protocols
