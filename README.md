@@ -15,15 +15,21 @@ Media Monetisation Framework on NEAR Protocol
 
 ## How we built it
 - NEAR Protocol
-- NodeJS
 - JavaScript
+- Rust
+- Rainbow Bridge
+- Aurora Engine
+- NodeJS
+- NPM
+- YARN
 
 # Problem
 - Lack of traceability in the international print media
-- Excess of centralisation in the regional print media
-- Lack of interoperability between print media networks
-- Limited scalability for print media messaging systems
+- Excess of centralisation in the international print media
+- Lack of interoperability between media monetisation networks
+- Limited scalability for media monetisation systems
 - Lack of authenticity of advertisements and adverts
+- Lack of heterogeneity in media contents and culture
 
 ## Technology
 - Ethereum - NEAR - Cross Chain Shard Rainbow Bridge
@@ -39,18 +45,6 @@ Media Monetisation Framework on NEAR Protocol
 ## Accomplishments that we're proud of
 - Innovations on the lifecycle of New Media 
 - Implementation of a new computational framework for media
-
-## Challenges
-- Issues with NEAR CLI setup
-
-# Technology
-- Rust
-- JavaScript
-- NEAR Protocol
-- Rainbow Bridge
-- Aurora Engine
-- NPM
-- YARN
 
 # Roadmap
 - Integration of Zero Knowledge Proofs
