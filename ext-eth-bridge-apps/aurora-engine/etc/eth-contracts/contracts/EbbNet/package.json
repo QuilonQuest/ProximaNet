@@ -1,0 +1,27 @@
+{
+  "name": "ebbnet",
+  "version": "1.0.0",
+  "description": "Decentralised Dynamic Stream of Money with Continous Markets over Matic Network",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FusionLedger/EbbNet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FusionLedger/EbbNet/issues"
+  },
+  "homepage": "https://github.com/FusionLedger/EbbNet#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0"
+  }
+}
