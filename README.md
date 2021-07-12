@@ -2,12 +2,11 @@ Media Monetisation Framework on NEAR Protocol
 =============================================
 
 ## Inspiration
-- Orkut
-- Netflix
-- YouTube
-- Vimeo
-- Wikileaks
-- Wikipedia
+- Orkut approach to social network monetisation
+- Netflix approach to video story monetisation
+- YouTube approach to video stream monetisation
+- Vimeo approach to video content monetisation
+- Disney approach to video art monetisation
 
 ## What it does
 - Time Tokenisation of New Media 
