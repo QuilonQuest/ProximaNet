@@ -52,3 +52,9 @@ Media Monetisation Framework on NEAR Protocol
 - Implementation of Time Trust Tokens using NEAR Protocols
 - Implementation of Dynamic Digital NFTs for Advertisements
 - Implementation of Non Fungible Tokens on NEAR Protocols
+
+# Target Market
+
+# Customer Segment
+
+# Return on Investment
