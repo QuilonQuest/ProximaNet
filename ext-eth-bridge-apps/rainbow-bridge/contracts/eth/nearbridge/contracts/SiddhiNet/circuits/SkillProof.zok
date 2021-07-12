@@ -1,0 +1,5 @@
+// Stablecoin Value Range Proof  
+def main(private field value, field TypeA, field TypeB) -> bool:
+  assert(value>TypeA)
+  assert(value<TypeB)
+  return true
