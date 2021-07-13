@@ -57,4 +57,5 @@ Media Monetisation Framework on NEAR Protocol
 - https://github.com/aurora-is-near/near-erc20-connector
 - https://github.com/aurora-is-near/aurora-engine
 - https://github.com/aurora-is-near/rainbow-bridge-client
+- https://github.com/near/near-api-js
 - https://github.com/near/near-cli
