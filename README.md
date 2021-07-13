@@ -53,8 +53,7 @@ Media Monetisation Framework on NEAR Protocol
 - Implementation of Dynamic Digital NFTs for Advertisements
 - Implementation of Non Fungible Tokens on NEAR Protocols
 
-# Target Market
-
-# Customer Segment
-
-# Return on Investment
+# References
+- https://github.com/aurora-is-near/near-erc20-connector
+- https://github.com/aurora-is-near/aurora-engine
+- https://github.com/aurora-is-near/rainbow-bridge-client
