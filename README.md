@@ -19,7 +19,7 @@ Media Monetisation Framework on NEAR Protocol
 ## How we built it
 - NEAR Protocol
 - JavaScript
-- Rust
+- Rust Language
 - Rainbow Bridge
 - Aurora Engine
 - NodeJS
