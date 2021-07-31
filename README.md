@@ -60,6 +60,7 @@ Media Monetisation Framework on NEAR Protocol
 # References
 - https://github.com/aurora-is-near/near-erc20-connector
 - https://github.com/aurora-is-near/aurora-engine
+- https://github.com/aurora-is-near/rainbow-bridge/pull/604
 - https://github.com/aurora-is-near/rainbow-bridge-client
 - https://github.com/nearprotocol/near-memegen
 - https://github.com/near/near-sdk-as
