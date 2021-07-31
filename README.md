@@ -10,7 +10,7 @@ Media Monetisation Framework on NEAR Protocol
 
 ## Introduction
 - A Layer 3 interoperability and integrity protocol powered by our award winning Semiott Streaming Framework
-- Aimed to create streaming services of verifiable advertisement contents and channels from across Ethereum, Binance, Harmony etc.
+- Aimed to create streaming services of verifiable advertisements from across Ethereum, Binance, Harmony etc.
 
 ## What it does
 - Time Tokenisation of New Media 
