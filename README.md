@@ -8,6 +8,10 @@ Media Monetisation Framework on NEAR Protocol
 - Vimeo approach to video content monetisation
 - Disney approach to video art monetisation
 
+## Introduction
+- A Layer 3 interoperability and integrity protocol powered by our award winning Semiott Streaming Framework
+- Aimed to create streaming services of verifiable advertisement contents and channels from across Ethereum, Binance, Harmony etc.
+
 ## What it does
 - Time Tokenisation of New Media 
 - Trust Tokenisation of New Media
