@@ -805,7 +805,7 @@ const Dao = () => {
                       <option value="NewCommunity">New Community</option>
                       <option value="RemoveCouncil">Remove Community</option>
                       <option value="ChangeVotePeriod">Change Vote Period</option>
-                      <option value="ChangePurpose">Change Purpose</option>
+                      <option value="ChangeContext">Change Context</option>
                     </select>
                   </div>
                   <MDBInput disabled={disableTarget} name="proposalTarget" value={proposalTarget.value}
