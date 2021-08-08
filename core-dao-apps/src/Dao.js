@@ -76,9 +76,9 @@ const Proposal = (props) => {
     <MDBCol className="col-12 col-sm-8 col-lg-6 mx-auto">
       <MDBCard className="mb-5">
         <MDBCardHeader className="text-center h4-responsive">
-          {props.data.kind.type === 'ChangePurpose' ? "Change DAO Purpose: " + props.data.kind.purpose : null}
-          {props.data.kind.type === 'NewCouncil' ? "New Council Member: " + props.data.target : null}
-          {props.data.kind.type === 'RemoveCouncil' ? "Remove Council Member: " + props.data.target : null}
+          {props.data.kind.type === 'ChangeContext' ? "Change DAO Purpose: " + props.data.kind.purpose : null}
+          {props.data.kind.type === 'NewCommunity' ? "New Community Member: " + props.data.target : null}
+          {props.data.kind.type === 'RemoveCommunity' ? "Remove Community Member: " + props.data.target : null}
           {props.data.kind.type === 'ChangeVotePeriod' ? "Change Vote Period: " + `${props.data.kind.vote_period / 1e9 / 60 / 60 ^ 0}h ` + (props.data.kind.vote_period / 1e9 / 60 % 60).toFixed(0) + 'm' : null}
 
           {props.data.kind.type === "Payout" ?
