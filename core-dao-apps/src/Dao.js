@@ -603,7 +603,7 @@ const Dao = () => {
   };
 
   const changeSelectHandler = (event) => {
-    if (event.target.value === "NewCouncil" || event.target.value === "RemoveCouncil") {
+    if (event.target.value === "NewCommunity" || event.target.value === "RemoveCommunity") {
       setShowCouncilChange(true)
       setShowPayout(false)
       setShowChangePurpose(false)
@@ -802,8 +802,8 @@ const Dao = () => {
                             className="browser-default custom-select">
                       {/*<option value="false">Choose proposal type</option>*/}
                       <option value="Payout">Payout</option>
-                      <option value="NewCouncil">New Council</option>
-                      <option value="RemoveCouncil">Remove Council</option>
+                      <option value="NewCommunity">New Community</option>
+                      <option value="RemoveCouncil">Remove Community</option>
                       <option value="ChangeVotePeriod">Change Vote Period</option>
                       <option value="ChangePurpose">Change Purpose</option>
                     </select>
